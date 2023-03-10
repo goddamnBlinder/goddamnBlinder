@@ -1,7 +1,5 @@
-[![MasterHead](https://creativeteachered.org/wp-content/uploads/2021/10/SteamBanner5.gif)]
-<h1 align="center">Hi 👋</h1>
-<h2> I'm chinweike, James </h2>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+
+<p align="center">Hi 👋, I'm chinweike, James</p>
 <p align="center">I'm an aspiring full stack web developer and i beleive i could be more by one solid step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving problems with programming.</p>
 
 - 🌱 I’m currently learning **Everthing about the web**
